@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=infotecharul1&label=Profile%20Views&color=blue&style=flat)
+
 ## Hi there 👋
 
 
