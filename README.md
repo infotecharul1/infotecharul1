@@ -1,11 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=infotecharul1&label=Profile%20Views&color=blue&style=flat)
 
-## Hi there 👋
-
+## Hi Welcome 👋
 
 **infotecharul1/infotecharul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I'm a passionate Software QA Tester with a keen eye for detail and a commitment to delivering high-quality software.
 - 🌱 I’m currently learning my skills in automation testing tools such as Cypress, Ract, Python and exploring CI/CD practices to enhance my testing efficiency.
