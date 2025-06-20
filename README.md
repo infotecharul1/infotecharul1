@@ -5,7 +5,7 @@
 **infotecharul1/infotecharul1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I'm a passionate Software QA Tester with a keen eye for detail and a commitment to delivering high-quality software.
-- 🌱 I’m currently learning my skills in automation testing tools such as Cypress, Ract, Python and exploring CI/CD practices to enhance my testing efficiency.
+- 🌱 I executed comprehensive end-to-end testing in automation testing tools such as Cypress, Ract, Python and exploring CI/CD practices to enhance my testing efficiency.
 - 👯 I’m looking to collaborate on open-source testing projects.
 - 🤔 I’m looking for help with insights on best practices for test automation and any recommendations for effective testing frameworks.
 - 💬 Ask me about: I am passionate about implementing quality initiatives, which I believe strengthens my analytical abilities in QA testing. I prioritize customer satisfaction, and maintain a results-driven approach with a DevOps mindset that promotes continuous improvement.
